@@ -1,0 +1,14 @@
+name: hermesbro-sentinel
+version: 1.0.0
+description: "Security auditor AI. Vulnerability scanning, audit di sicurezza, penetration testing e report."
+hermes_requires: ">=0.16.0"
+author: "HermesBro"
+license: "MIT"
+
+env_requires:
+  - name: TELEGRAM_BOT_TOKEN
+    description: "Telegram bot token (da @BotFather)"
+    required: true
+  - name: DEEPSEEK_API_KEY
+    description: "DeepSeek API key per LLM"
+    required: true
