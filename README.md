@@ -1,4 +1,6 @@
 # Sentinel — Security Auditor
+[![Beta](https://img.shields.io/badge/HermesBro-beta-8b9cb3?style=flat-square&logo=github)]()
+
 
 **Il security auditor di HermesBro.** Sentinel vende audit gestiti su smart contract (Solidity) e VPS/domain tramite report Markdown con SLA.
 
